@@ -1,0 +1,5 @@
+Book complexity a guided tour melanie mitchell
+
+Melanie Mitchell https://www.youtube.com/watch?v=GYChwJq0310
+
+Complexity Explorer online courses https://amara.org/en/teams/complexity-explorer/
