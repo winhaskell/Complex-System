@@ -1,0 +1,14 @@
+Albert-László Barabási
+
+https://www.ccis.northeastern.edu/people/albert-laszlo-barabasi/
+
+Robert Gray Dodge Professor of Network Science
+Distinguished University Professor
+Interdisciplinary with College of Science
+
+RESEARCH INTERESTS
+Professor Barabási’s lab focuses on network science and its applications, exploring fundamental questions in complex systems. The tools come from the boundary of network science, control theory and statistical physics. The lab currently focuses on three main questions. Research on network biology explores the properties of sub-cellular networks, with applications to understanding human diseases. The lab network control merges the tools of control theory with that of network science, aiming to understand the controllability and control of complex systems. The group on science of success explores the network and non-network characteristics that contribute to the successful of a node, being a scientist in the scientific collaboration networks, or a webpage on the WWW.
+
+EDUCATION
+PhD, Boston University
+MS in Theoretical Physics, Eotvos University in Budapest, Hungary
