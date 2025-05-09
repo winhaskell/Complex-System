@@ -1,0 +1,35 @@
+Chaos vs. Complex Systems
+https://necsi.edu/chaos-vs-complex-systems
+
+Advances in the scientific study of chaos have been important motivators/roots of the modern study of complex systems. 
+There exists some confusion about the relationship of chaos and complexity.
+
+Chaos can be more or less strictly defined. A reasonably strict definition is that chaos deals with deterministic systems
+whose trajectories diverge exponentially over time. This property is expected to be found in the behavior of complex systems. 
+However, how it can be related to various properties of complex systems continues to be an important area of research.
+
+Models of chaos generally describe the dynamics of one (or a few) variables which are real (ie represented by a decimal number).
+Using these models some characteristic behaviors of their dynamics can be found.
+
+Complex systems do not necessarily have a natural representation of this form, or these behaviors. 
+Complex systems have many degrees of freedom: many elements that are partially but not completely independent. 
+Some people call the behavior of these systems "high dimensional chaos" to distinguish it from the conventional low dimensional case. 
+We could consider the notion of high-dimensional chaos to be essentially an alternate term for the study of complex systems, 
+building on the insights from chaos theory to develop our understanding of complex systems generally.
+
+It is also not entirely clear what aspects of system-environment interaction are modeled by chaos. 
+The deterministic equations of chaos can be most easily thought of as describing a closed rather than an open system. 
+However, some aspects of system-environment interactions are included in such models, and they may even be necessary 
+to achieve the non-linear dynamics that are characteristic of these models.
+
+Thus, chaos is concerned with a few parameters and the dynamics of their values, while the study of complex systems is
+concerned with both the structure and the dynamics of systems and their interaction with their environment.
+
+Informally, chaos is also used to refer to disorder and randomness. Disorder and randomness are themselves rich concepts 
+that are part of the study of complex systems. They are distinct from the notion of deterministic chaos and confounding them should be avoided.
+The notion of a "chaotic environment," should probably be replaced most of the time with "complex environment," since the
+term complex is justifiably used to refer both to deterministic chaos and to the randomness of disorder.
+
+
+
+
